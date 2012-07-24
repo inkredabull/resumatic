@@ -1,0 +1,91 @@
+body {
+  margin-top: 20px;
+  font-family: 'Simonetta', sans-serif;
+}
+#portfolio {
+  margin: 0 auto;
+  width: 650px;
+}
+img {
+  border: 1px solid black;
+}
+#contact, #powered_by {
+  text-align: center;
+  margin-bottom: 20px;
+  font-size: 90%;
+  color: #5f5f5f;
+}
+#project {
+  margin: 0 auto;
+  width: 50%;
+}
+#title, #technologies, #link {
+  text-align: center;
+}
+.portfolioHeaderLeftCol {
+  float: left;
+  width: 80%;
+}
+.portfolioHeaderRightCol {
+  float: right;
+}
+#project div {
+  margin-top: 5px;
+}
+#background {
+  clear: both; 
+}
+h1 {
+  text-align: center;
+  margin: 5px 0 5px 0;
+  color: #5f5f5f;
+}
+h2, h3 {
+  margin: 5px 0;
+  color: #5f5f5f;
+}
+h3 {
+  font-size: 85%;
+}
+hr {
+  color: #5f5f5f;
+  border: 1px solid #5f5f5f;
+  margin: 15px 0;
+}
+div {
+  margin: 5px 0 10px 0;
+}
+.centered-image-container {
+  text-align: center;
+}
+#lightview img {
+  border: none;
+}
+#portfolio img {
+  vertical-align: middle;
+}
+.caption {
+  font-size: 85%;
+  font-style: italic;
+}
+.inline-block {
+  display: inline-block;
+}
+.portfolioHeaderRightCol img {
+  width: 80px;
+  height: 80px;
+}
+.technology-cloud {
+  font-size: 90%;
+  color: #5f5f5f;
+  vertical-align: middle;
+  width: 180px;
+  text-align: center;
+  margin: 0 10px;
+}
+.team {
+  margin: 20px 0 30px 0;
+}
+#resumatic-plug {
+  text-align: center;
+}

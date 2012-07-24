@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resume>
+  <objective>
+    Web developer with ten years of experience
+  </objective>
+  <strengths>
+    <strength>Frontend Engineering</strength>
+  </strengths>
+  <experience>
+    <employer name="Company XYZ">
+      <position name="Sr. Web Developer">
+        <start>6/10</start>
+        <end>Current</end>
+        <team/>
+        <location>San Francisco, CA</location>
+        <project private="0" paid="1" name="company_xyz" title="Company XYZ">
+          <summary>
+              Iterating with Product to scope, implement (Rails w/MySQL,) and 
+              A/B-test pixel-perfect sign-up/refer-a-friend/search/browse/opt-out/profile 
+              experiences for driving conversions in the form of signups, virality, ­and 
+              clicks for not only our flagship web and email products (used by 4M+ users) 
+              but also eight new product launches.
+          </summary>
+          <description>
+            Here's where you can provide more context.
+          </description>
+          <achievements>
+            <achievement>
+              Built great web experiences
+            </achievement>
+          </achievements>
+          <technologies>
+            <technology>RoR</technology>
+            <technology>Ember.js</technology>
+          </technologies>
+          <link url="http://example.com" text="Example.com"></link>
+        </project>
+      </position>
+    </employer>
+  </experience>
+  <education>
+    <institution long="1" note="Undergrad">University</institution>
+  </education>
+  <presentations>
+    <presentation>
+      <title>A presentation at a tech conference</title>
+    </presentation>
+  </presentations>
+  <tutoring>
+    <course>Distributed Systems with Java, RMI, &amp; Corba, Fall/06</course>
+  </tutoring>
+  <languages>
+    <language>English</language>
+    <language level="fluent">German</language>
+  </languages>
+  <honors>
+    <honor>Won a great prize</honor>
+  </honors>
+</resume>

@@ -1,0 +1,4 @@
+- refactor portfolio owner, email, and Google Analytics ID into config
+- create git submodules for data (e.g. resume/images)
+- add tests
+
